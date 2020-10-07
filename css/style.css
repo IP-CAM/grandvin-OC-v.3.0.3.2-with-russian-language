@@ -1,0 +1,18 @@
+body{
+   width: 100%;
+   height: 100%;
+   overflow: hidden;
+   padding: 0;
+   margin: 0;
+   background: #452a15;
+
+}
+#wrapper{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/grand_back.jpg);
+  opacity: 0.1;
+}
+html{
+   height: 100%;
+}
